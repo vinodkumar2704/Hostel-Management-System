@@ -12,5 +12,5 @@ I used Xampp for mysql and apache server which comes on installing xampp.
 If using a different database change the config file in includes folder accordingly.
 Create Database and tables before starting the site.The details were provided in the database folder.
 After starting the server, search localhost/dbms in the browser and the website works fine.
-<br>
+<br><br><br>
 More details regarding development is provided in the documentation folder.
